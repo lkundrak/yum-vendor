@@ -1,0 +1,7 @@
+# YUM Plugin that disallows an update of a package with a package
+# from different vendor. Useful to keep packages compiled by yourself
+# around while distribution pushes newer versions into repository.
+#
+# Copyright (c) 2011 Lubomir Rintel <lkundrak@v3.sk>
+# Licensed under GNU GPL version 2 or later version at your
+# option.
